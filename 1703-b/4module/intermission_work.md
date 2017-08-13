@@ -47,8 +47,8 @@
 
 ## Squee Mueller 
 
-* Reflection Gist: 
-* Sorting Suite Repo: 
+* Reflection Gist: https://gist.github.com/squeemishly/7f63c3882d519adaada1152713f1b44d
+* Sorting Suite Repo: https://github.com/squeemishly/sorting_suite_js
 
 ## Mason Holland
 
